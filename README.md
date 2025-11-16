@@ -37,8 +37,8 @@ All test artifacts are organized into folders corresponding to the phases of the
 * **[RTM - Hundt Web.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/2_Test_Design/Requirements%20Traceability%20Matrix%20-%20Hundt%20Web.pdf.pdf)**: The Requirements Traceability Matrix for the **Web Platform**.
 
 ### 3. Test Cases
-* **[test_cases_mobile.xlsx](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/3_Test_Cases/test_cases_mobile.xlsx)**: The complete test suite for the **Mobile App**. (Link confirmed working)
-* **[test_cases_web.xlsx](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/3_Test_Cases/test_cases_web.xlsx)**: The complete test suite for the **Web Platform**. (Link confirmed working)
+* **[test_cases_mobile.xlsx](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/3_Test_Cases/test_cases_mobile.xlsx.xlsx)**: The complete test suite for the **Mobile App**. (Link confirmed working)
+* **[test_cases_web.xlsx](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/3_Test_Cases/test_cases_web.xlsx.xlsx)**: The complete test suite for the **Web Platform**. (Link confirmed working)
 
 ### 4. Summary and Reports
 * **[Huntd Test Report [Konrad Koszyk] - Test Summary.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/4_Summary_and_Reports/Huntd%20Test%20Report%20%5BKonrad%20Koszyk%5D%20-%20Test%20Summary.pdf.pdf)**: A high-level test summary report outlining the scope, key metrics, and findings of a hypothetical test cycle.
