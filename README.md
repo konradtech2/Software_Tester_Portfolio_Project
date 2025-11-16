@@ -41,7 +41,7 @@ All test artifacts are organized into folders corresponding to the phases of the
 * **[test_cases_web.xlsx](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/3_Test_Cases/test_cases_web.xlsx.xlsx)**: The complete test suite for the **Web Platform**. (Link confirmed working)
 
 ### 4. Summary and Reports
-* **[Huntd Test Report [Konrad Koszyk] - Test Summary.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/4_Summary_and_Reports/Huntd%20Test%20Report%20%5BKonrad%20Koszyk%5D%20-%20Test%20Summary.pdf.pdf)**: A high-level test summary report outlining the scope, key metrics, and findings of a hypothetical test cycle.
+* **[Huntd Test Report (Charts) - Test Summary.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/4_Summary_and_Reports/Huntd%20Test%20Report%20%5BKonrad%20Koszyk%5D%20-%20Test%20Summary.pdf)**: A high-level test summary report outlining the scope, key metrics, and findings of a hypothetical test cycle.
 * **[Tests Report.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/4_Summary_and_Reports/Tests%20Report.pdf.pdf)**: A more detailed report on the testing activities performed.
 
 ---
