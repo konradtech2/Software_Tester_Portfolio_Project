@@ -27,7 +27,7 @@ All test artifacts are organized into folders corresponding to the phases of the
 
 ### 1. Planning and Analysis
 * **[Test Plan - Hundt.pdf](https://github.com/[YourUsername]/[YourRepoName]/blob/main/1_Planning_and_Analysis/Test%20Plan%20-%20Hundt.pdf)**: Defines the overall strategy, scope, resources, environment, and criteria for the testing process.
-* **[Permission Table Testing - Hundt.pdf](https://github.com/[YourUsername]/[YourRepoName]/blob/main/1_Planning_and_Analysis/Permission%20Table%20Testing%20-%20Hundt.pdf)**: An analysis of user roles and their specific access rights across the application, forming the basis for security and role-based testing.
+* **[Permission Table Testing - Hundt.pdf](https://github.com/konradtech2/Software_Tester_Portfolio_Project/blob/main/1_Planning_and_Analysis/Permission%20Table%20Testing%20-%20Hundt.pdf)**: An analysis of user roles and their specific access rights across the application, forming the basis for security and role-based testing.
 
 ### 2. Test Design
 * **[Decomposition App Version.pdf](https://github.com/[YourUsername]/[YourRepoName]/blob/main/2_Test_Design/Decomposition%20App%20Version.pdf)**: A visual breakdown (mind map) of the **Mobile App** into testable modules and features.
